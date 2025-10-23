@@ -1,7 +1,7 @@
 ### Overview 
 
 Pleaceholder for detecting testing anti-patterns in IaC 
-> This is a test commit and push
+> This is a test for the Codacy implementation
 
 ### Contributors
 
